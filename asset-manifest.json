@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alignment-tensions/static/css/main.41892deb.css",
+    "main.js": "/alignment-tensions/static/js/main.adae926a.js",
+    "static/js/453.3bf0e640.chunk.js": "/alignment-tensions/static/js/453.3bf0e640.chunk.js",
+    "index.html": "/alignment-tensions/index.html",
+    "main.41892deb.css.map": "/alignment-tensions/static/css/main.41892deb.css.map",
+    "main.adae926a.js.map": "/alignment-tensions/static/js/main.adae926a.js.map",
+    "453.3bf0e640.chunk.js.map": "/alignment-tensions/static/js/453.3bf0e640.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41892deb.css",
+    "static/js/main.adae926a.js"
+  ]
+}
